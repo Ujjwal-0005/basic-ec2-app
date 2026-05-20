@@ -1,0 +1,12 @@
+{
+  "name": "basic-ec2-app",
+  "version": "1.0.0",
+  "description": "Basic app for EC2 + Docker + GitHub Actions",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
